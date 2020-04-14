@@ -1,2 +1,2 @@
-def parrot (string="SQUAWK!")
+def #parrot (string="SQUAWK!")
   puts "#{STRING}"
