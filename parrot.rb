@@ -1,3 +1,1 @@
-def parrot
-  puts "SQUAWK!"
-  end
+parrot=SQUAWK!
