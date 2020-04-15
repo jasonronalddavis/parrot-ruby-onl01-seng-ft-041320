@@ -1,6 +1,4 @@
-def parrot
-string = "Pretty bird!"
-puts
-  return "Squawk!"
-  "Pretty bird!"
+def parrot (a,"Squawk!")
+a = "Pretty bird!"
+puts"Pretty bird!"
 end
