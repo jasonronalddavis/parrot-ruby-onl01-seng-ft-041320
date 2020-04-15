@@ -1,5 +1,4 @@
-def parrot
-  name="Squawk!"
-  puts "Pretty bird!"
-  return"Squawk!"
+def parrot(phrase="Squawk!")
+  puts "#{phrase}"
+  "Pretty bird!"
 end
