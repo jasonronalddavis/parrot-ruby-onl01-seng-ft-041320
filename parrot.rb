@@ -1,5 +1,5 @@
 def parrot
-  string=Pretty bird!
-  puts "Squawk!"
-  return "Squawk!"
+  string="Squawk!"
+  puts string
+  return string
 end
